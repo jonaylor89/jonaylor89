@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jonaylor89/jonaylor89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi! I'm John 👋
+
+I'm a graduate computer science student at Virginia Commonwealth University
+
+    🚀 Working on not failing school
+    🌱 Currently dabbling with Deno, Rust, and Swift
+    💭 Let's talk about: Design, OpenSource and Web Development!
+    📖 Love learning languages
+    ⚡ RamHacks Hackathon Organizer
+
