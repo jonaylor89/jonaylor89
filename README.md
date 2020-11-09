@@ -20,7 +20,7 @@ I'm a graduate computer science student at Virginia Commonwealth University
 
     🚀 Working on not failing school
     🌱 Currently dabbling with Deno, Rust, and Swift
-    💭 Let's talk about: Design, OpenSource and Web Development!
+    💭 Let's talk about: Design, OpenSource and Business!
     📖 Love learning languages
     ⚡ RamHacks Hackathon Organizer
 
