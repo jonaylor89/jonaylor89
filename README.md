@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi! I'm John 👋
+### Hi! 👋
 
 I'm a graduate computer science student at Virginia Commonwealth University
 
