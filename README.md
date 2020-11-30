@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 
 ### Hi! 👋
 
-I'm a graduate computer science student at Virginia Commonwealth University
+I like to dabble
 
-    🚀 Working on not failing school
+    🚀 Working on building cool things
     🌱 Currently dabbling with Deno, Rust, and Swift
-    💭 Let's talk about: Design, OpenSource and Business!
+    💭 Let's talk about: UX Design, OpenSource and Business!
     📖 Love learning languages
-    ⚡ RamHacks Hackathon Organizer
 
