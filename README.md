@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <h1 align="left"> Hey, I'm Johannes 👋 </h1>
 
 <p align="left">
-   <a href="https://jonaylor.xyz/"><img alt="Portfolio" src="https://img.shields.io/badge/-dewith.co-black?style=flat-square&logo=squarespace&logoColor=white&link=https://jonaylor.xyz/"></a>
-   <a href="https://www.linkedin.com/in/john-naylor/"><img alt="LinkedIn" src="https://img.shields.io/badge/-dewithmiramon-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-naylor/"></a>
-   <a href="https://twitter.com/jonaylor89"><img alt="Twitter" src="https://img.shields.io/badge/-@DewithMiramon-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jonaylor89"></a>
-   <a href="mailto:jonaylor89@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-dewithmiramon@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonaylor89@gmail.com"></a>
-   <a href="https://medium.com/@jonaylor89"><img alt="Medium" src="https://img.shields.io/badge/-@dewith-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@jonaylor89"></a>
+   <a href="https://jonaylor.xyz/"><img alt="Portfolio" src="https://img.shields.io/badge/-jonaylor.xyz-black?style=flat-square&logo=squarespace&logoColor=white&link=https://jonaylor.xyz/"></a>
+   <a href="https://www.linkedin.com/in/john-naylor/"><img alt="LinkedIn" src="https://img.shields.io/badge/-john-naylor-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-naylor/"></a>
+   <a href="https://twitter.com/jonaylor89"><img alt="Twitter" src="https://img.shields.io/badge/-@jonaylor89-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jonaylor89"></a>
+   <a href="mailto:jonaylor89@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-jonaylor89@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonaylor89@gmail.com"></a>
+   <a href="https://medium.com/@jonaylor89"><img alt="Medium" src="https://img.shields.io/badge/-@jonaylor89-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@jonaylor89"></a>
 </p>
 
 <h3 align="left">  I'm John Naylor, a software developer and start up founder who likes to build cool things.  </h3>
