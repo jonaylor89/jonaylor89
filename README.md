@@ -24,7 +24,7 @@ Here are some ideas to get you started:
    <a href="https://medium.com/@jonaylor89"><img alt="Medium" src="https://img.shields.io/badge/-@jonaylor89-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@jonaylor89"></a>
 </p>
 
-<h3 align="left">  I'm John Naylor, a software developer and start up founder who likes to build cool things.  </h3>
+<h3 align="left">  I'm Johannes Naylor, a software developer and start up founder who likes to build cool things.  </h3>
 
 ---
 
