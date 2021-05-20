@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <img align="right" height="150" width="210" src="data.gif">
 
 - 🔭 **I’m currently working on:** flutter, firebase, audio analysis
-- 🌱 **I’m currently learning:** data engineering, german, product Management
-- 👯 **I’m looking to collaborate on:** flutter projects, firebase Extensions
+- 🌱 **I’m currently learning:** data engineering, german, product management
+- 👯 **I’m looking to collaborate on:** flutter projects, firebase extensions
 - 💬 **Ask me about:** language learning, start up founding, flutter
 - ⚡ **Hobbies:** music, building things, traveling
 - 😄 **Pronouns:** he/him
