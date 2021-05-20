@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- credits for gif https://gph.is/g/ZWg5jr7 -->
+<!-- credits for gif http://gph.is/2pqa06T -->
 <img align="right" height="150" width="210" src="data.gif">
 
 - 🔭 **I’m currently working on:** ML models
