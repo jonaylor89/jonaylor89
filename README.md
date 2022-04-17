@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 <!-- credits for gif http://gph.is/2pqa06T -->
 <img align="right" height="150" width="210" src="data.gif">
 
-- 🔭 **I’m currently working on:** flutter, firebase, audio analysis
-- 🌱 **I’m currently learning:** data engineering, german, product management
-- 👯 **I’m looking to collaborate on:** flutter projects, firebase extensions
-- 💬 **Ask me about:** language learning, start up founding, flutter
+- 🔭 **I’m currently working on:** music-related things, application observability, audio analysis
+- 🌱 **I’m currently learning:** distributed systems, german, product management
+- 👯 **I’m looking to collaborate on:** projects that make music creator's lives easier
+- 💬 **Ask me about:** language learning, start up founding, audio
 - ⚡ **Hobbies:** music, building things, traveling
 - 😄 **Pronouns:** he/him
 
