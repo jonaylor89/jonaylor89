@@ -38,6 +38,4 @@ Here are some ideas to get you started:
 - ⚡ **Hobbies:** music, building things, traveling
 - 😄 **Pronouns:** he/him
 
----
 
-<a href="https://jonaylor.xyz/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=jonaylor89&show_icons=true&hide_title=true&hide_border=true&theme=radical" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaylor89&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=radical" /></a>
