@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <img align="right" height="150" width="210" src="data.gif">
 
 - 🔭 **I’m currently working on:** music-related things, application observability, audio analysis
-- 🌱 **I’m currently learning:** distributed systems, german, product management
-- 👯 **I’m looking to collaborate on:** projects that make music creator's lives easier
-- 💬 **Ask me about:** language learning, start up founding, audio
+- 🌱 **I’m currently learning:** distributed systems, portugese, product management
+- 👯 **I’m looking to collaborate on:** projects that make performer's lives easier
+- 💬 **Ask me about:** language learning, start up founding, big data
 - ⚡ **Hobbies:** music, building things, traveling
 - 😄 **Pronouns:** he/him
 
