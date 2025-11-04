@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 
 <h1 align="left"> Hey, I'm Johannes 👋 </h1>
 
-<p align="left">
-   <a href="https://jonaylor.com/"><img alt="Portfolio" src="https://img.shields.io/badge/-jonaylor.com-black?style=flat-square&logo=squarespace&logoColor=white&link=https://jonaylor.com/"></a>
-   <a href="https://www.linkedin.com/in/john-naylor/"><img alt="LinkedIn" src="https://img.shields.io/badge/-john--naylor-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-naylor/"></a>
-   <a href="https://x/jonaylor89"><img alt="Twitter" src="https://img.shields.io/badge/-@jonaylor89-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jonaylor89"></a>
-</p>
-
 <h3 align="left">  I'm Johannes Naylor, a engineer and entrepreneur who likes to build cool things.  </h3>
 
 ---
