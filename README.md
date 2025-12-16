@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="left"> Hey, I'm Johannes 👋 </h1>
 
-<h3 align="left">  I'm Johannes Naylor, a engineer and entrepreneur who likes to build cool things.  </h3>
+<h3 align="left">  I'm Johannes Naylor, an engineer and entrepreneur who likes to build cool things.  </h3>
 
 ---
 
